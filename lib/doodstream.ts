@@ -83,7 +83,7 @@ class Doodstream {
         const data = await this.fetch(
             "/search/videos",
             { search_term: query },
-            30
+            20
         );
         return data;
     }
