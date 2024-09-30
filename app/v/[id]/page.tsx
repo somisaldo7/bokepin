@@ -10,6 +10,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Metadata, ResolvingMetadata } from "next";
 import { Table, TableBody, TableCell, TableRow } from "@/components/ui/table";
 import { humanDuration, humanSize } from "@/lib/utils";
+import Script from "next/script";
 
 import { Button } from "@/components/ui/button";
 import CopyButton from "@/components/copy-button";
@@ -241,7 +242,8 @@ const jsonLd = {
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
             </h2>
-            <SearchCardList query={file.title.split(" ")[2]} />
+            <SearchCardList query={file.title.split(" ")[3]} />
+            <Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
         </div>
     );
 }
