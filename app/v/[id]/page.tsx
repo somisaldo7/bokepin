@@ -172,6 +172,11 @@ const jsonLd = {
                     <CardTitle className="text-xl md:text-3xl font-bold">
                         {file.title}
                     </CardTitle>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1052552})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1052552" data-width="300" data-height="262"></ins>
                 </CardHeader>
                 <CardContent>
                     <div className="grid grid-flow-row lg:grid-flow-col">
@@ -238,10 +243,20 @@ const jsonLd = {
                     </div>
                 </CardContent>
             </Card>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1052553})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1052553" data-width="300" data-height="262"></ins>
             <p>Video bokep indo terbaru viral {file.title} di {SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek film tante hot twitter asia download live stw situs indonesia nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
             </h2>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1052551})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1052551" data-width="300" data-height="262"></ins>
             <SearchCardList query={file.title.split(" ")[3]} />
             <Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
         </div>
